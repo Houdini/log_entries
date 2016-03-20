@@ -1,0 +1,4 @@
+comment = 'Записываем кто и когда менял запись'
+default_version = '1.0'
+module_pathname = '$libdir/log_entries'
+relocatable = true
